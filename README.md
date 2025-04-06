@@ -6,3 +6,4 @@
 ![Sexo dos clientes](https://github.com/user-attachments/assets/91ca9424-e64e-4d53-a233-b648bbc009ec)
 ![Limite por escolaridade, sexo e cartão](https://github.com/user-attachments/assets/70da0c5e-88dc-4789-987b-c96ff32dcb2e)
 ![Valor gasto por sexo](https://github.com/user-attachments/assets/c5b3ddcb-d784-4304-96b9-61929320542c)
+![Nome das tabelas](https://github.com/user-attachments/assets/c38d73d5-19a9-4a9e-8365-2d215f7e2fb4)
