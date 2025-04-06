@@ -13,3 +13,4 @@
 ![Tipo de cartão](https://github.com/user-attachments/assets/8abaeb15-8b6b-441c-a0c6-75f999647ba2)
 ![Idade](https://github.com/user-attachments/assets/66b210c5-9d83-495a-b0ac-96e3e22f2c3f)
 ![Salario Credito Produto](https://github.com/user-attachments/assets/6352a022-d74b-4ab2-8d7f-c570e9cd8cb5)
+![Limite por escolaridade, sexo e cartão](https://github.com/user-attachments/assets/27ee29ae-587a-4059-9fcb-0ca75fb810d5)
